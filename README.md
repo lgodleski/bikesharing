@@ -45,5 +45,6 @@ From this analysis we can see that the majority of NYC Citibike users are annual
 ![](Resources/user_age.png)
 <br>We can see that a disproportionately large group of Citibike users were born in 1969.
 <br>
+<br>
 ![](Resources/trip_duration_by_age.png)
 <br>These users that were born in 1969 also have the longest trip duration records, ranging from about 7 - 20 minutes. 
