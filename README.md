@@ -40,4 +40,11 @@ The purpose of this analysis is to create visualizations using key data from a N
 <br> The majority of subscribers, both men and women, used a Citibike on Thursday whereas customers (male, female, and gender unknown) typically checked out more bikes on Saturdays and Sundays. 
 
 ## Summary
-provide high level summary of results and two additional visualizations that you would peform with the given dataset
+From this analysis we can see that the majority of NYC Citibike users are annual subscribers, male, and typically checkout bikes for about 5 minutes on Thursday evenings between 5 and 6pm. Female users follow similar trends they just make up less of the total user base. For future analysis, I would suggest looking at the age ranges of users and how that impacts trip duration. 
+
+<br>
+![](Resources/user_age.png)
+<br>We can see that a disproportionately large group of Citibike users were born in 1969.
+<br>
+![](Resources/trip_duration_by_age.png)
+<br>These users that were born in 1969 also have the longest trip duration records, ranging from about 7 - 20 minutes. 
