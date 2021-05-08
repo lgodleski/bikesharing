@@ -42,7 +42,7 @@ The purpose of this analysis is to create visualizations using key data from a N
 ## Summary
 From this analysis we can see that the majority of NYC Citibike users are annual subscribers, male, and typically checkout bikes for about 5 minutes on Thursday evenings between 5 and 6pm. Female users follow similar trends they just make up less of the total user base. For future analysis, I would suggest looking at the age ranges of users and how that impacts trip duration. 
 
-<br>
+
 <br>We can see that a disproportionately large group of Citibike users were born in 1969.
 <br>
 <br>These users that were born in 1969 also have the longest trip duration records, ranging from about 7 - 20 minutes. 
